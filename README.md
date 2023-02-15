@@ -1,3 +1,4 @@
-# Customer-Segmentation
+Customer-Segmentation
 
-### K Nearest Neighbour algo is used
+### ALGORIHTM : K Nearest Neighbour algo is used
+### Accuracy  : 99.148639
